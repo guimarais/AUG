@@ -1,0 +1,70 @@
+EVS (Divertor visible spectroscopy EVS) #36595 3.503s
+  RTN-03 (Line of sight)
+   From R= 1.050m, z=-0.608m, phi=33.707
+   To   R= 1.642m, z=-0.980m, phi=34.057
+  RTN-05 (Line of sight)
+   From R= 1.050m, z=-0.608m, phi=33.707
+   To   R= 1.625m, z=-1.037m, phi=34.076
+  RXV-08 (Line of sight)
+   From R= 1.752m, z=-1.001m, phi=44.945
+   To   R= 1.186m, z=-0.725m, phi=44.912
+  RTN-01 (Line of sight)
+   From R= 1.050m, z=-0.608m, phi=33.707
+   To   R= 1.663m, z=-0.930m, phi=34.051
+  RIN-03 (Line of sight)
+   From R= 1.400m, z=-1.234m, phi=22.969
+   To   R= 1.292m, z= 1.035m, phi=24.155
+  RIN-05 (Line of sight)
+   From R= 1.400m, z=-1.234m, phi=22.969
+   To   R= 1.566m, z= 1.167m, phi=23.742
+  RXV-02 (Line of sight)
+   From R= 1.752m, z=-1.001m, phi=44.945
+   To   R= 1.283m, z=-0.987m, phi=44.953
+  RXV-04 (Line of sight)
+   From R= 1.752m, z=-1.001m, phi=44.945
+   To   R= 1.284m, z=-0.920m, phi=44.980
+  ROV-14 (Line of sight)
+   From R= 1.409m, z=-1.147m, phi=45.165
+   To   R= 1.641m, z=-0.980m, phi=45.054
+  RIV-06 (Line of sight)
+   From R= 1.379m, z=-1.177m, phi= 0.128
+   To   R= 1.263m, z=-1.044m, phi=359.904
+  RIV-09 (Line of sight)
+   From R= 1.419m, z=-1.135m, phi= 0.644
+   To   R= 1.274m, z=-1.015m, phi= 0.010
+  RIV-11 (Line of sight)
+   From R= 1.419m, z=-1.135m, phi= 0.644
+   To   R= 1.285m, z=-0.981m, phi=359.991
+  ROV-09 (Line of sight)
+   From R= 1.409m, z=-1.147m, phi=45.165
+   To   R= 1.607m, z=-1.105m, phi=45.051
+  ZIV-04 (Line of sight)
+   From R= 1.438m, z=-1.217m, phi=22.767
+   To   R= 1.063m, z= 0.309m, phi=27.489
+  ZIV-06 (Line of sight)
+   From R= 1.438m, z=-1.217m, phi=22.767
+   To   R= 1.052m, z=-0.202m, phi=25.174
+  ZIV-08 (Line of sight)
+   From R= 1.438m, z=-1.217m, phi=22.767
+   To   R= 1.287m, z=-0.928m, phi=23.277
+  ZON-01 (Line of sight)
+   From R= 1.352m, z=-1.168m, phi=23.077
+   To   R= 1.793m, z=-0.779m, phi=22.608
+  ZON-03 (Line of sight)
+   From R= 1.352m, z=-1.168m, phi=23.077
+   To   R= 2.096m, z=-0.340m, phi=22.276
+  ZON-05 (Line of sight)
+   From R= 1.352m, z=-1.168m, phi=23.077
+   To   R= 2.201m, z= 0.034m, phi=22.062
+  ROV-11 (Line of sight)
+   From R= 1.409m, z=-1.147m, phi=45.165
+   To   R= 1.617m, z=-1.065m, phi=45.029
+  ROV-10 (Line of sight)
+   From R= 1.409m, z=-1.147m, phi=45.165
+   To   R= 1.612m, z=-1.086m, phi=45.046
+  ROV-12 (Line of sight)
+   From R= 1.409m, z=-1.147m, phi=45.165
+   To   R= 1.624m, z=-1.041m, phi=45.038
+  ROV-13 (Line of sight)
+   From R= 1.409m, z=-1.147m, phi=45.165
+   To   R= 1.631m, z=-1.013m, phi=45.037

@@ -14,3 +14,11 @@ Clone the `ipfnpytools` git repository and add it to your python path.
 Check if the available versions of the at 
 
 
+### Plotting styles
+
+In the 'Styles' directory you can find several plotting styles.
+
+* "darklab": A style suitable to use with jupyter-lab's dark theme.
+* "helvet2": Uses latex fonts and helvetica.
+* "helvet2dark": Same as previous, but for use with jupyter-lab's dark theme.
+

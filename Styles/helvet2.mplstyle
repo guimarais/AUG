@@ -1,0 +1,32 @@
+#FFUUUUUU
+
+patch.linewidth: 0.5
+patch.facecolor: FFFFFF
+patch.edgecolor: 000000
+patch.antialiased: True
+
+font.size: 9.0
+
+axes.facecolor: white
+axes.edgecolor: 000000
+axes.linewidth: 1
+axes.grid: False
+axes.labelcolor: black
+axes.axisbelow: True       # grid/ticks are below elements (e.g., lines, text)
+
+axes.prop_cycle: cycler('color', ['1f77b4', 'ff7f0e', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+
+xtick.color: 000000
+xtick.direction: out
+
+ytick.color: 000000
+ytick.direction: out
+
+grid.color: white
+grid.linestyle: -    # solid line
+
+figure.facecolor: white
+figure.edgecolor: 0.50
+
+text.usetex : True
+text.latex.preamble : \usepackage{tgheros}, \usepackage{sansmath}, \sansmath, \usepackage{siunitx}, \sisetup{detect-all}
