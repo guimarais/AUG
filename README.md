@@ -22,3 +22,5 @@ In the 'Styles' directory you can find several plotting styles.
 * "helvet2": Uses latex fonts and helvetica.
 * "helvet2dark": Same as previous, but for use with jupyter-lab's dark theme.
 
+Most notebooks are set to use the dark theme from jupyter-lab ans they will use the "darklab" theme as the matplotlib style.
+
